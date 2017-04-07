@@ -1,0 +1,69 @@
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "0z1-VP-Jf2"; */
+"0z1-VP-Jf2.text" = "Nombre";
+
+/* Class = "UITabBarItem"; title = "Social Network"; ObjectID = "6CX-JB-PgR"; */
+"6CX-JB-PgR.title" = "Social Network";
+
+/* Class = "UIButton"; normalTitle = ":>"; ObjectID = "6F5-9G-5N7"; */
+"6F5-9G-5N7.normalTitle" = ":>";
+
+/* Class = "UILabel"; text = "Number"; ObjectID = "9SF-5R-hG4"; */
+"9SF-5R-hG4.text" = "Numero";
+
+/* Class = "UILabel"; text = "#"; ObjectID = "BwE-lL-g2i"; */
+"BwE-lL-g2i.text" = "#";
+
+/* Class = "UILabel"; text = "LastName"; ObjectID = "EE8-EW-cw1"; */
+"EE8-EW-cw1.text" = "Apellido";
+
+/* Class = "UITabBarItem"; title = "Intena"; ObjectID = "FMd-00-oFZ"; */
+"FMd-00-oFZ.title" = "Intena";
+
+/* Class = "UILabel"; text = "#"; ObjectID = "Hny-kB-TS3"; */
+"Hny-kB-TS3.text" = "#";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "JA2-vL-peI"; */
+"JA2-vL-peI.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "P6w-zh-Bek"; */
+"P6w-zh-Bek.text" = "Fecha";
+
+/* Class = "UILabel"; text = "#"; ObjectID = "Ptc-DV-p0n"; */
+"Ptc-DV-p0n.text" = "#";
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "eIC-q6-z2K"; */
+"eIC-q6-z2K.normalTitle" = ">";
+
+/* Class = "UILabel"; text = "31-03-2017"; ObjectID = "fEb-Ll-MD6"; */
+"fEb-Ll-MD6.text" = "31-03-2017";
+
+/* Class = "UITabBarItem"; title = "Touch ID"; ObjectID = "fd9-OI-CXv"; */
+"fd9-OI-CXv.title" = "Touch ID";
+
+/* Class = "UILabel"; text = "#"; ObjectID = "gUR-pq-f2T"; */
+"gUR-pq-f2T.text" = "#";
+
+/* Class = "UILabel"; text = "Ha publicado"; ObjectID = "lDv-FA-adA"; */
+"lDv-FA-adA.text" = "Ha publicado";
+
+/* Class = "UITabBarItem"; title = "Play Music"; ObjectID = "nNP-B3-Uxy"; */
+"nNP-B3-Uxy.title" = "Play Music";
+
+/* Class = "UILabel"; text = "1H"; ObjectID = "o2i-vL-NiM"; */
+"o2i-vL-NiM.text" = "1H";
+
+/* Class = "UILabel"; text = "#"; ObjectID = "qJX-yb-qul"; */
+"qJX-yb-qul.text" = "#";
+
+/* Class = "UILabel"; text = "Image"; ObjectID = "rDn-Mb-SwE"; */
+"rDn-Mb-SwE.text" = "Imagen";
+
+/* Class = "UILabel"; text = "Currency"; ObjectID = "rU6-CW-8wI"; */
+"rU6-CW-8wI.text" = "Moneda";
+
+/* Class = "UILabel"; text = "Madrid-España"; ObjectID = "uJU-gF-I7I"; */
+"uJU-gF-I7I.text" = "Madrid-España";
+
+/* Class = "UILabel"; text = "Sergio"; ObjectID = "zhK-2a-KX0"; */
+"zhK-2a-KX0.text" = "Sergio";

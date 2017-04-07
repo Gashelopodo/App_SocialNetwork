@@ -1,0 +1,374 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		099FB17C1E8EBFC400247902 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 099FB17B1E8EBFC400247902 /* AppDelegate.swift */; };
+		099FB1811E8EBFC400247902 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 099FB17F1E8EBFC400247902 /* Main.storyboard */; };
+		099FB1831E8EBFC400247902 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 099FB1821E8EBFC400247902 /* Assets.xcassets */; };
+		099FB1861E8EBFC400247902 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 099FB1841E8EBFC400247902 /* LaunchScreen.storyboard */; };
+		099FB18E1E8EC96A00247902 /* SNPostSocialNetworkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 099FB18D1E8EC96A00247902 /* SNPostSocialNetworkViewController.swift */; };
+		099FB1901E8EC97C00247902 /* SNTouchIDViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 099FB18F1E8EC97C00247902 /* SNTouchIDViewController.swift */; };
+		099FB1921E8EC98E00247902 /* SNInternacionalizacionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 099FB1911E8EC98E00247902 /* SNInternacionalizacionViewController.swift */; };
+		099FB1941E8EC9A700247902 /* SNPlayMusicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 099FB1931E8EC9A700247902 /* SNPlayMusicViewController.swift */; };
+		099FB1961E8ECE0D00247902 /* Api_helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 099FB1951E8ECE0D00247902 /* Api_helpers.swift */; };
+		099FB19D1E8EDF1C00247902 /* hola.png in Resources */ = {isa = PBXBuildFile; fileRef = 099FB19F1E8EDF1C00247902 /* hola.png */; };
+		099FB1A51E8EE2DD00247902 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 099FB1A71E8EE2DD00247902 /* Localizable.strings */; };
+		09F64DE51E97DAFE00BABCA8 /* Queens-Of-the-Stone-Age-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 09F64DE31E97DAFE00BABCA8 /* Queens-Of-the-Stone-Age-1.jpg */; };
+		09F64DE61E97DAFE00BABCA8 /* song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 09F64DE41E97DAFE00BABCA8 /* song.mp3 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		099FB1781E8EBFC400247902 /* App_SocialNetWork.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = App_SocialNetWork.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		099FB17B1E8EBFC400247902 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		099FB1801E8EBFC400247902 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		099FB1821E8EBFC400247902 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		099FB1851E8EBFC400247902 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		099FB1871E8EBFC400247902 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		099FB18D1E8EC96A00247902 /* SNPostSocialNetworkViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SNPostSocialNetworkViewController.swift; sourceTree = "<group>"; };
+		099FB18F1E8EC97C00247902 /* SNTouchIDViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SNTouchIDViewController.swift; sourceTree = "<group>"; };
+		099FB1911E8EC98E00247902 /* SNInternacionalizacionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SNInternacionalizacionViewController.swift; sourceTree = "<group>"; };
+		099FB1931E8EC9A700247902 /* SNPlayMusicViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SNPlayMusicViewController.swift; sourceTree = "<group>"; };
+		099FB1951E8ECE0D00247902 /* Api_helpers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Api_helpers.swift; sourceTree = "<group>"; };
+		099FB1991E8EDD0000247902 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Main.strings; sourceTree = "<group>"; };
+		099FB19A1E8EDD0000247902 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		099FB19E1E8EDF1C00247902 /* es */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = es; path = es.lproj/hola.png; sourceTree = "<group>"; };
+		099FB1A11E8EDF4500247902 /* Base */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Base; path = Base.lproj/hola.png; sourceTree = "<group>"; };
+		099FB1A61E8EE2DD00247902 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
+		099FB1A81E8EE2DF00247902 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
+		099FB1A91E8EE34B00247902 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		09F64DE31E97DAFE00BABCA8 /* Queens-Of-the-Stone-Age-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Queens-Of-the-Stone-Age-1.jpg"; sourceTree = "<group>"; };
+		09F64DE41E97DAFE00BABCA8 /* song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = song.mp3; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		099FB1751E8EBFC400247902 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		099FB16F1E8EBFC400247902 = {
+			isa = PBXGroup;
+			children = (
+				099FB17A1E8EBFC400247902 /* App_SocialNetWork */,
+				099FB1791E8EBFC400247902 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		099FB1791E8EBFC400247902 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				099FB1781E8EBFC400247902 /* App_SocialNetWork.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		099FB17A1E8EBFC400247902 /* App_SocialNetWork */ = {
+			isa = PBXGroup;
+			children = (
+				09F64DE31E97DAFE00BABCA8 /* Queens-Of-the-Stone-Age-1.jpg */,
+				09F64DE41E97DAFE00BABCA8 /* song.mp3 */,
+				099FB19F1E8EDF1C00247902 /* hola.png */,
+				099FB1A21E8EE2A700247902 /* VIEW_CONTROLLER */,
+				099FB17F1E8EBFC400247902 /* Main.storyboard */,
+				099FB1821E8EBFC400247902 /* Assets.xcassets */,
+				099FB1841E8EBFC400247902 /* LaunchScreen.storyboard */,
+				099FB1871E8EBFC400247902 /* Info.plist */,
+			);
+			path = App_SocialNetWork;
+			sourceTree = "<group>";
+		};
+		099FB1A21E8EE2A700247902 /* VIEW_CONTROLLER */ = {
+			isa = PBXGroup;
+			children = (
+				099FB17B1E8EBFC400247902 /* AppDelegate.swift */,
+				099FB1A71E8EE2DD00247902 /* Localizable.strings */,
+				099FB1951E8ECE0D00247902 /* Api_helpers.swift */,
+				099FB18D1E8EC96A00247902 /* SNPostSocialNetworkViewController.swift */,
+				099FB18F1E8EC97C00247902 /* SNTouchIDViewController.swift */,
+				099FB1911E8EC98E00247902 /* SNInternacionalizacionViewController.swift */,
+				099FB1931E8EC9A700247902 /* SNPlayMusicViewController.swift */,
+			);
+			name = VIEW_CONTROLLER;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		099FB1771E8EBFC400247902 /* App_SocialNetWork */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 099FB18A1E8EBFC400247902 /* Build configuration list for PBXNativeTarget "App_SocialNetWork" */;
+			buildPhases = (
+				099FB1741E8EBFC400247902 /* Sources */,
+				099FB1751E8EBFC400247902 /* Frameworks */,
+				099FB1761E8EBFC400247902 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = App_SocialNetWork;
+			productName = App_SocialNetWork;
+			productReference = 099FB1781E8EBFC400247902 /* App_SocialNetWork.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		099FB1701E8EBFC400247902 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0820;
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = cice;
+				TargetAttributes = {
+					099FB1771E8EBFC400247902 = {
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 099FB1731E8EBFC400247902 /* Build configuration list for PBXProject "App_SocialNetWork" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				es,
+			);
+			mainGroup = 099FB16F1E8EBFC400247902;
+			productRefGroup = 099FB1791E8EBFC400247902 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				099FB1771E8EBFC400247902 /* App_SocialNetWork */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		099FB1761E8EBFC400247902 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				099FB1A51E8EE2DD00247902 /* Localizable.strings in Resources */,
+				09F64DE61E97DAFE00BABCA8 /* song.mp3 in Resources */,
+				099FB1861E8EBFC400247902 /* LaunchScreen.storyboard in Resources */,
+				099FB1831E8EBFC400247902 /* Assets.xcassets in Resources */,
+				09F64DE51E97DAFE00BABCA8 /* Queens-Of-the-Stone-Age-1.jpg in Resources */,
+				099FB1811E8EBFC400247902 /* Main.storyboard in Resources */,
+				099FB19D1E8EDF1C00247902 /* hola.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		099FB1741E8EBFC400247902 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				099FB1901E8EC97C00247902 /* SNTouchIDViewController.swift in Sources */,
+				099FB1921E8EC98E00247902 /* SNInternacionalizacionViewController.swift in Sources */,
+				099FB1961E8ECE0D00247902 /* Api_helpers.swift in Sources */,
+				099FB1941E8EC9A700247902 /* SNPlayMusicViewController.swift in Sources */,
+				099FB17C1E8EBFC400247902 /* AppDelegate.swift in Sources */,
+				099FB18E1E8EC96A00247902 /* SNPostSocialNetworkViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		099FB17F1E8EBFC400247902 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				099FB1801E8EBFC400247902 /* Base */,
+				099FB1991E8EDD0000247902 /* es */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		099FB1841E8EBFC400247902 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				099FB1851E8EBFC400247902 /* Base */,
+				099FB19A1E8EDD0000247902 /* es */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		099FB19F1E8EDF1C00247902 /* hola.png */ = {
+			isa = PBXVariantGroup;
+			children = (
+				099FB19E1E8EDF1C00247902 /* es */,
+				099FB1A11E8EDF4500247902 /* Base */,
+			);
+			name = hola.png;
+			sourceTree = "<group>";
+		};
+		099FB1A71E8EE2DD00247902 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				099FB1A61E8EE2DD00247902 /* Base */,
+				099FB1A81E8EE2DF00247902 /* es */,
+				099FB1A91E8EE34B00247902 /* en */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		099FB1881E8EBFC400247902 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		099FB1891E8EBFC400247902 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		099FB18B1E8EBFC400247902 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = App_SocialNetWork/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "serguma.App-SocialNetWork";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		099FB18C1E8EBFC400247902 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = App_SocialNetWork/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "serguma.App-SocialNetWork";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		099FB1731E8EBFC400247902 /* Build configuration list for PBXProject "App_SocialNetWork" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				099FB1881E8EBFC400247902 /* Debug */,
+				099FB1891E8EBFC400247902 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		099FB18A1E8EBFC400247902 /* Build configuration list for PBXNativeTarget "App_SocialNetWork" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				099FB18B1E8EBFC400247902 /* Debug */,
+				099FB18C1E8EBFC400247902 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 099FB1701E8EBFC400247902 /* Project object */;
+}
